@@ -1,0 +1,1 @@
+Projeto desenvolvido para criar uma fila virtual prioritária, com idosos atendidos primeiro. Utiliza uma lista duplamente encadeada e ordenação com bubble sort, conforme requisitos da disciplina de Algoritmos e Estruturas de Dados 1.
